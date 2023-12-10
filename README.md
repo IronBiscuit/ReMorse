@@ -1,5 +1,5 @@
 # ReMorse
-An app developed by my team and I during a casual hackathon event. 
+A google extension developed by my team and I during a casual hackathon event, which changes all your HTML text to morse code, while making it challenging to revert it back.
 
 Developed By:
 
